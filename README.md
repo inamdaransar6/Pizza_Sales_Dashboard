@@ -74,4 +74,11 @@ Product-level breakdown, including:
 
 📷 Preview
 
-(Add a screenshot of your dashboard here, e.g. ![Dashboard Preview](.png.))
+### Overview
+![Overview](Overview.png)
+
+### Monthly and Day-wise Analysis
+![Monthly and Day-wise Analysis](monthday.png)
+
+### Pizza Size & Pizza Type Analysis
+![Pizza Size and Type](Pizzasizetype.png)
